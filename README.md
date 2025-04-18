@@ -15,6 +15,7 @@ This project demonstrates a comprehensive data warehousing and analytics solutio
 **Gold Layer:** Houses business-ready data modeled into a star schema required for reporting and analytics.
 
 
+
 **Project Overview:**
 
 **This project involves**:
@@ -28,6 +29,7 @@ This project demonstrates a comprehensive data warehousing and analytics solutio
 **4) Analytics & Reporting:** Creating SQL-based reports and dashboards for actionable insights.
 
 
+
 **Project Requirements:**
 
 1) Data Sources: Import data from two source systems (ERP and CRM) provided as CSV files.
@@ -35,6 +37,8 @@ This project demonstrates a comprehensive data warehousing and analytics solutio
 3) Integration: Combine both sources into a single, user-friendly data model designed for analytical queries.
 4) Scope: Focus on the latest dataset only; historization of data is not required.
 5) Documentation: Provide clear documentation of the data model to support both business stakeholders and analytics teams.
+
+   
 
 **BI Analytics & Reporting (Data Analysis):**
 
