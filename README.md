@@ -39,6 +39,7 @@ This project demonstrates a comprehensive data warehousing and analytics solutio
 **BI Analytics & Reporting (Data Analysis):**
 
 Develop SQL-based analytics to deliver detailed insights into:
+
 **1) Customer Behavior**
 
 **2) Product Performance**
